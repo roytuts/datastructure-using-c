@@ -1,0 +1,1 @@
+You can read tutorial https://www.roytuts.com/c-program-to-add-two-matrix-using-multi-dimensional-arrays/
