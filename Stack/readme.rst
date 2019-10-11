@@ -1,0 +1,1 @@
+You can read tutorial https://www.roytuts.com/stack-using-linked-list-in-c-program/
