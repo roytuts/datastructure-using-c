@@ -1,1 +1,1 @@
-You can go through the tutorial https://www.roytuts.com/evaluation-of-polynomial-expression-using-c-program/
+Please follow the tutorial https://roytuts.com/evaluation-of-polynomial-expression-using-c-program/
