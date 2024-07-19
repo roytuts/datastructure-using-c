@@ -1,1 +1,1 @@
-You can read tutorial https://www.roytuts.com/c-program-to-compute-transpose-of-a-matrix/
+Please follow the tutorial https://roytuts.com/c-program-to-compute-transpose-of-a-matrix/
