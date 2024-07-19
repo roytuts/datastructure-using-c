@@ -1,1 +1,1 @@
-You can go through the tutorial https://www.roytuts.com/addition-of-two-polynomials-using-c-program/
+Please follow the tutorial https://roytuts.com/addition-of-two-polynomials-using-c-program/
