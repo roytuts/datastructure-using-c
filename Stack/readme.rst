@@ -1,1 +1,1 @@
-You can read tutorial https://www.roytuts.com/stack-using-linked-list-in-c-program/
+Please follow the tutorial https://roytuts.com/stack-using-linked-list-in-c-program/
