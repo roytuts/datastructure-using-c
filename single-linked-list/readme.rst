@@ -1,1 +1,1 @@
-You can read tutorial https://www.roytuts.com/singly-linked-list-example-using-c-program/
+Please follow the tutorial https://roytuts.com/singly-linked-list-example-using-c-program/
