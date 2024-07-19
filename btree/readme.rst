@@ -1,1 +1,1 @@
-You can read tutorial https://www.roytuts.com/binary-tree-using-pointer-in-c/
+Please follow the tutorial https://roytuts.com/binary-tree-using-pointer-in-c/
